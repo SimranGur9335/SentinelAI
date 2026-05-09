@@ -1,0 +1,6 @@
+{
+  "name": "SentinelAI",
+  "description": "AI-powered cybersecurity platform that scans websites, APIs, and cloud configurations for vulnerabilities with AI remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
